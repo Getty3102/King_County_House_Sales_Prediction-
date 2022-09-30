@@ -17,18 +17,39 @@ Houses are slowly becoming the biggest investment one can make. The newest form 
 
 The main problem that investors willing to get into the housing market face is understanding the key factors that affect house prices. We will perform  regression analysis and find the relationship between the predictor variables and the target variable (price). The analysis will help determine which variables impact the price significantly and hence provide knowledge for investors on what features to invest on in the housing market.
 
+# Regression Results
+
+Model	           Adjusted Rsquared	    MAE	         RMSE
+
+Simple 	         49.4%	                0.4741	      0.7160
+
+Multiple	        73.1%	                0.3258	      0.5213
+
+Polynomial	      84.7%	                0.2560	      0.3880
+			
+
+
+
  # Conclusion
  Several factors had a significant influence on price that is:
   Square footage of (the living space,the lot,the basement and Square footage of house apart from basement,
+  
   The year the house was built and when it was renovated
+  
   The grade of the house in terms of in terms of the construction and design of the house
+  
   The location
+  
   The number of bedrooms and bathrooms a house has.
+ 
  Waterfronts and views barely impact price,on the contrary houses with neither had very high prices
  
  # Recommendations
+ 
  Remodel houses to achieve grade 7 in terms of the construction and design of the house in the King County area, meeting grading requirements for the region. 
+ 
  Remodelled  houses should attain the average condition of maintance.
+ 
  During remodelling ensure houses have a maximum of 3 floors,bathrooms and bedrooms.
   
   
