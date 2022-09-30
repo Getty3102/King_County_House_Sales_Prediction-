@@ -1,6 +1,6 @@
 # King_County_House_Sales_Prediction-
 
-![image](https://user-images.githubusercontent.com/101499571/193299364-d8278077-c4fc-480f-9d3b-fec812798ceb.png)
+![image](https://user-images.githubusercontent.com/101499571/193356292-703ae802-8387-444e-9060-cede934466a2.png)
 
 
 # Overview
