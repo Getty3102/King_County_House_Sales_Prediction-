@@ -1,7 +1,7 @@
 # King_County_House_Sales_Prediction-
 
 
-![](The%20Urban%20Village%20Project_%20At%20the%20Forefront%20of%20the%20Housing%20Crisis.jpg)
+![](The%20Urban%20Village%20Project_%20At%20the%20Forefront%20of%20the%20Housing%20Crisis.JPG)
 
 
 1 Overview
