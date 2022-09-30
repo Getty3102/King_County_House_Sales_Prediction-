@@ -1,6 +1,8 @@
 # King_County_House_Sales_Prediction-
 
-![](WhatsApp%20Image%202022-09-30%20at%2015.57.01.jpeg)
+
+![](The%20Urban%20Village%20Project_%20At%20the%20Forefront%20of%20the%20Housing%20Crisis.jpg)
+
 
 1 Overview
 
