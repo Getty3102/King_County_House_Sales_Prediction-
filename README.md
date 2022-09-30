@@ -1,7 +1,6 @@
 # King_County_House_Sales_Prediction-
 
- ![The Urban Village Project_ At the Forefront of the Housing Crisis](https://user-images.githubusercontent.com/101499571/193295788-22807979-8391-42ec-8c92- e3afac72ef2b.jpg)
-
+![The Urban Village Project_ At the Forefront of the Housing Crisis](https://user-images.githubusercontent.com/101499571/193295788-22807979-8391-42ec-8c92-e3afac72ef2b.jpg)
 1 Overview
 
 For this project, I have used various regression methods to predict the price of houses in the northwestern county,USA. The models start with a very basic simple linear regression advancing towards a complex polynomial regression. The main aim here is to attain a model that will best predict the price of a house with a metric error close to zero.
