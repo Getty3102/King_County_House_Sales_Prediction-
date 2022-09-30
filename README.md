@@ -1,11 +1,6 @@
-![The Urban Village Project_ At the Forefront of the Housing Crisis](https://user-images.githubusercontent.com/101499571/193295788-22807979-8391-42ec-8c92-e3afac72ef2b.jpg)
-
-
 # King_County_House_Sales_Prediction-
 
-
-![](The%20Urban%20Village%20Project_%20At%20the%20Forefront%20of%20the%20Housing%20Crisis.*jpg)
-
+ ![The Urban Village Project_ At the Forefront of the Housing Crisis](https://user-images.githubusercontent.com/101499571/193295788-22807979-8391-42ec-8c92- e3afac72ef2b.jpg)
 
 1 Overview
 
